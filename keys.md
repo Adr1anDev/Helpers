@@ -1,4 +1,7 @@
 Product	Year	Version	Product Keys
+
+Visual Studio 2026 18.x Professional: NVTDK-QB8J9-M28GR-92BPC-BTHXK
+
 Visual Studio 2022	2021	17.x	Professional:
 TD244-P4NB7-YQ6XK-Y8MMM-YWV2J
 Enterprise:
